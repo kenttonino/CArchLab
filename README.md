@@ -1,2 +1,3 @@
-# CArchLab
-Playground for learning different Computer Architectures.
+## Description
+
+> - Playground for learning different Computer Architectures.
